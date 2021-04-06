@@ -1,0 +1,63 @@
+---
+title: "Presentation Ninja"
+subtitle: "⚔<br/>with xaringan"
+author: "Yihui Xie"
+institute: "RStudio, PBC"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["rladies-fonts","rladies"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Teste
+## adfojakhjv
+
+;awjfaqehirgaqethgaiojsdpqkwefd
+
+
+---
+
+# Teste
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+hist(cars$speed)
+```
+
+---
+
+class: inverse, middle, center
+
+# Teste
+
+---
+
+# Duas colunas
+
+.pull-left[
+## coluna esquerda
+- hausdkfjah
+- -akjsdhfj;kaj
+- akjsdhflkajhfg
+
+]
+
+.pull-right[
+## Direita
+- haldfkhalerkgh
+- iajsdhflkh
+- ioahsdlfkh
+]
+
+.center[
+lakdfjv;alkgj;
+]
+
